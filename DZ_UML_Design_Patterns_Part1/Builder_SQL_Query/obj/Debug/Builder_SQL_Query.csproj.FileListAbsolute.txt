@@ -1,0 +1,6 @@
+D:\С#\DZ_UML_Design_Patterns_Part1\Builder_SQL_Query\bin\Debug\BuilderSQLQuery.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Builder_SQL_Query\bin\Debug\BuilderSQLQuery.pdb
+D:\С#\DZ_UML_Design_Patterns_Part1\Builder_SQL_Query\obj\Debug\Builder_SQL_Query.csproj.AssemblyReference.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Builder_SQL_Query\obj\Debug\Builder_SQL_Query.csproj.CoreCompileInputs.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Builder_SQL_Query\obj\Debug\BuilderSQLQuery.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Builder_SQL_Query\obj\Debug\BuilderSQLQuery.pdb

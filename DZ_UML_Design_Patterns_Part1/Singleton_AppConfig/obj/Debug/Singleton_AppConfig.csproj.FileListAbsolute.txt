@@ -1,0 +1,6 @@
+D:\С#\DZ_UML_Design_Patterns_Part1\Singleton_AppConfig\bin\Debug\SingletonAppConfig.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Singleton_AppConfig\bin\Debug\SingletonAppConfig.pdb
+D:\С#\DZ_UML_Design_Patterns_Part1\Singleton_AppConfig\obj\Debug\Singleton_AppConfig.csproj.AssemblyReference.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Singleton_AppConfig\obj\Debug\Singleton_AppConfig.csproj.CoreCompileInputs.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Singleton_AppConfig\obj\Debug\SingletonAppConfig.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Singleton_AppConfig\obj\Debug\SingletonAppConfig.pdb

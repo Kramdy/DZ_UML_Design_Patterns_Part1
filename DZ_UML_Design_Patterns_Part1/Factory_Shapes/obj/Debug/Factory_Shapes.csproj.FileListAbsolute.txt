@@ -1,0 +1,6 @@
+D:\С#\DZ_UML_Design_Patterns_Part1\Factory_Shapes\bin\Debug\FactoryShapes.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Factory_Shapes\bin\Debug\FactoryShapes.pdb
+D:\С#\DZ_UML_Design_Patterns_Part1\Factory_Shapes\obj\Debug\Factory_Shapes.csproj.AssemblyReference.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Factory_Shapes\obj\Debug\Factory_Shapes.csproj.CoreCompileInputs.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Factory_Shapes\obj\Debug\FactoryShapes.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Factory_Shapes\obj\Debug\FactoryShapes.pdb

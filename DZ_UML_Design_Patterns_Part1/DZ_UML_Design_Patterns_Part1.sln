@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton AppConfig", "Singleton_AppConfig\Singleton_AppConfig.csproj", "{D3CAB230-0E2F-40D1-B22A-B536022746D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Shapes", "Factory_Shapes\Factory_Shapes.csproj", "{2EA3BFE6-95B1-4AEB-9A3E-2CD18CF8E6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder SQL Query", "Builder_SQL_Query\Builder_SQL_Query.csproj", "{2131F450-4C80-42AF-B3BB-5BD1E7075530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter GeoLocation", "Adapter_GeoLocation\Adapter_GeoLocation.csproj", "{7DEBFC51-F3A3-4420-A21B-9D48568A8BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CAB230-0E2F-40D1-B22A-B536022746D2}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{D3CAB230-0E2F-40D1-B22A-B536022746D2}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{2EA3BFE6-95B1-4AEB-9A3E-2CD18CF8E6FD}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{2EA3BFE6-95B1-4AEB-9A3E-2CD18CF8E6FD}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{2131F450-4C80-42AF-B3BB-5BD1E7075530}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{2131F450-4C80-42AF-B3BB-5BD1E7075530}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{7DEBFC51-F3A3-4420-A21B-9D48568A8BE5}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{7DEBFC51-F3A3-4420-A21B-9D48568A8BE5}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+	EndGlobalSection
+EndGlobal

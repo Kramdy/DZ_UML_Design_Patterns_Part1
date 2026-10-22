@@ -1,0 +1,6 @@
+D:\С#\DZ_UML_Design_Patterns_Part1\Adapter_GeoLocation\bin\Debug\AdapterGeoLocation.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Adapter_GeoLocation\bin\Debug\AdapterGeoLocation.pdb
+D:\С#\DZ_UML_Design_Patterns_Part1\Adapter_GeoLocation\obj\Debug\Adapter_GeoLocation.csproj.AssemblyReference.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Adapter_GeoLocation\obj\Debug\Adapter_GeoLocation.csproj.CoreCompileInputs.cache
+D:\С#\DZ_UML_Design_Patterns_Part1\Adapter_GeoLocation\obj\Debug\AdapterGeoLocation.exe
+D:\С#\DZ_UML_Design_Patterns_Part1\Adapter_GeoLocation\obj\Debug\AdapterGeoLocation.pdb
